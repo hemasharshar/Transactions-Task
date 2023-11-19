@@ -49,7 +49,7 @@ class TaskAppSetup extends Command
 
         });
         $this->output->progressFinish();
-        $this->info('Admin created with password : 12345678');
+        $this->info('Admin created with Email: admin@admin.com and password: 12345678');
 
         $this->info('Seed Customers');
         $this->output->progressStart(100);

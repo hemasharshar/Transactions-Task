@@ -22,4 +22,3 @@
 - laravel passport : for customer authentication
 - laravel permission
 - laravel datatable
-"# Transactions-Task" 
